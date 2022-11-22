@@ -1,1 +1,2 @@
-the printf project is a collaboration project by Bosede Olalekan and Ifeoma nlem.
+the printf project is a collaboration project for ALX SE
+

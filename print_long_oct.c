@@ -1,5 +1,3 @@
-
-
 #include "main.h"
 /**
  * prinloct - prints long decimal number in octal
